@@ -1,0 +1,210 @@
+iso3,first_treat,country,adopted
+ABW,0,Aruba,0
+AFG,2019,Afghanistan,1
+AGO,2019,Angola,1
+AIA,0,Anguilla,0
+ALB,0,Albania,0
+AND,0,Andorra,0
+ARE,2021,United Arab Emirates,1
+ARG,2019,Argentina,1
+ARM,0,Armenia,0
+ATA,0,Antarctica,0
+ATG,2019,Antigua and Barbuda,1
+AUS,2021,Australia,1
+AUT,2019,Austria,1
+AZE,0,Azerbaijan,0
+BDI,2019,Burundi,1
+BEL,2019,Belgium,1
+BEN,2019,Benin,1
+BES,0,Bonaire Sint Eustatius and Saba,0
+BFA,2019,Burkina Faso,1
+BGD,2019,Bangladesh,1
+BGR,2019,Bulgaria,1
+BHR,2021,Bahrain,1
+BHS,2019,Bahamas,1
+BIH,0,Bosnia and Herzegovina,0
+BLR,0,Belarus,0
+BLZ,2019,Belize,1
+BMU,0,Bermuda,0
+BOL,0,Bolivia,0
+BRA,0,Brazil,0
+BRB,2019,Barbados,1
+BRN,2021,Brunei,1
+BWA,0,Botswana,0
+CAF,2019,Central African Republic,1
+CAN,2019,Canada,1
+CHE,2019,Switzerland,1
+CHL,2019,Chile,1
+CHN,0,China,0
+CIV,0,Cote d'Ivoire,0
+CMR,0,Cameroon,0
+COD,2019,Democratic Republic of Congo,1
+COG,0,Congo,0
+COK,2019,Cook Islands,1
+COL,2019,Colombia,1
+CPV,2019,Cape Verde,1
+CRI,2019,Costa Rica,1
+CUB,0,Cuba,0
+CUW,0,Curacao,0
+CXR,0,Christmas Island,0
+CYP,2019,Cyprus,1
+CZE,2019,Czechia,1
+DEU,2019,Germany,1
+DJI,2019,Djibouti,1
+DMA,2019,Dominica,1
+DNK,2019,Denmark,1
+DOM,2019,Dominican Republic,1
+DZA,0,Algeria,0
+ECU,2019,Ecuador,1
+EGY,2021,Egypt,1
+ERI,2019,Eritrea,1
+ESP,2019,Spain,1
+EST,2019,Estonia,1
+ETH,2019,Ethiopia,1
+FIN,2019,Finland,1
+FJI,2019,Fiji,1
+FRA,2019,France,1
+FRO,0,Faroe Islands,0
+FSM,2019,Micronesia (country),1
+GAB,0,Gabon,0
+GBR,2018,United Kingdom,1
+GEO,0,Georgia,0
+GHA,2022,Ghana,1
+GIN,2019,Guinea,1
+GMB,2019,Gambia,1
+GNQ,0,Equatorial Guinea,0
+GRC,2019,Greece,1
+GRD,2019,Grenada,1
+GRL,0,Greenland,0
+GTM,0,Guatemala,0
+HKG,0,Hong Kong,0
+HND,0,Honduras,0
+HRV,2019,Croatia,1
+HTI,2019,Haiti,1
+HUN,2019,Hungary,1
+IDN,2021,Indonesia,1
+IND,2021,India,1
+IRL,2019,Ireland,1
+IRN,0,Iran,0
+IRQ,0,Iraq,0
+ISL,2019,Iceland,1
+ISR,2021,Israel,1
+ITA,2019,Italy,1
+JAM,2019,Jamaica,1
+JOR,0,Jordan,0
+JPN,2020,Japan,1
+KAZ,2020,Kazakhstan,1
+KEN,0,Kenya,0
+KGZ,0,Kyrgyzstan,0
+KHM,2019,Cambodia,1
+KIR,2019,Kiribati,1
+KNA,2019,Saint Kitts and Nevis,1
+KOR,0,South Korea,0
+KWT,0,Kuwait,0
+LAO,2019,Laos,1
+LBN,2019,Lebanon,1
+LBR,2019,Liberia,1
+LBY,0,Libya,0
+LCA,2019,Saint Lucia,1
+LIE,2021,Liechtenstein,1
+LKA,0,Sri Lanka,0
+LSO,2019,Lesotho,1
+LTU,2019,Lithuania,1
+LUX,2019,Luxembourg,1
+LVA,2019,Latvia,1
+MAC,0,Macao,0
+MAR,0,Morocco,0
+MCO,2019,Monaco,1
+MDA,0,Moldova,0
+MDV,2019,Maldives,1
+MEX,2019,Mexico,1
+MHL,2015,Marshall Islands,1
+MKD,0,North Macedonia,0
+MLI,2019,Mali,1
+MLT,2019,Malta,1
+MMR,2019,Myanmar,1
+MNE,0,Montenegro,0
+MNG,0,Mongolia,0
+MOZ,2019,Mozambique,1
+MRT,0,Mauritania,0
+MSR,0,Montserrat,0
+MUS,2019,Mauritius,1
+MWI,2019,Malawi,1
+MYS,0,Malaysia,0
+NAM,2019,Namibia,1
+NCL,0,New Caledonia,0
+NER,2019,Niger,1
+NGA,2021,Nigeria,1
+NIC,2019,Nicaragua,1
+NIU,2019,Niue,1
+NLD,2019,Netherlands,1
+NOR,2019,Norway,1
+NPL,2019,Nepal,1
+NRU,2019,Nauru,1
+NZL,2019,New Zealand,1
+OMN,2023,Oman,1
+PAK,2019,Pakistan,1
+PAN,0,Panama,0
+PER,2019,Peru,1
+PHL,0,Philippines,0
+PLW,2019,Palau,1
+PNG,2019,Papua New Guinea,1
+POL,0,Poland,0
+PRK,0,North Korea,0
+PRT,2019,Portugal,1
+PRY,0,Paraguay,0
+PSE,0,Palestine,0
+PYF,0,French Polynesia,0
+QAT,0,Qatar,0
+ROU,2019,Romania,1
+RUS,2021,Russia,1
+RWA,2019,Rwanda,1
+SAU,2021,Saudi Arabia,1
+SDN,2019,Sudan,1
+SEN,2019,Senegal,1
+SGP,2020,Singapore,1
+SHN,0,Saint Helena,0
+SLB,2019,Solomon Islands,1
+SLE,2019,Sierra Leone,1
+SLV,0,El Salvador,0
+SMR,0,San Marino,0
+SOM,2019,Somalia,1
+SPM,0,Saint Pierre and Miquelon,0
+SRB,0,Serbia,0
+SSD,2019,South Sudan,1
+SVK,2019,Slovakia,1
+SVN,2019,Slovenia,1
+SWE,2017,Sweden,1
+SWZ,0,Eswatini,0
+SXM,0,Sint Maarten (Dutch part),0
+SYR,0,Syria,0
+TCA,0,Turks and Caicos Islands,0
+TCD,2019,Chad,1
+TGO,2019,Togo,1
+THA,2021,Thailand,1
+TJK,0,Tajikistan,0
+TKM,0,Turkmenistan,0
+TLS,2019,East Timor,1
+TON,2019,Tonga,1
+TTO,2019,Trinidad and Tobago,1
+TUN,0,Tunisia,0
+TUR,2021,Turkey,1
+TUV,2019,Tuvalu,1
+TWN,0,Taiwan,0
+TZA,2019,Tanzania,1
+UGA,2019,Uganda,1
+UKR,2021,Ukraine,1
+URY,2019,Uruguay,1
+USA,2020,United States,1
+UZB,0,Uzbekistan,0
+VAT,0,Vatican,0
+VCT,2019,Saint Vincent and the Grenadines,1
+VEN,0,Venezuela,0
+VGB,0,British Virgin Islands,0
+VNM,2021,Vietnam,1
+WLF,0,Wallis and Futuna,0
+WSM,2019,Samoa,1
+YEM,2019,Yemen,1
+ZAF,2020,South Africa,1
+ZMB,2019,Zambia,1
+ZWE,0,Zimbabwe,0

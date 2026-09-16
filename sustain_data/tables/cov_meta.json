@@ -1,0 +1,34 @@
+{
+ "covs_full": [
+  "Middle income (ref. low)",
+  "High income (ref. low)",
+  "Log population",
+  "Urbanization (%)",
+  "Trade openness (% GDP)",
+  "Industry (% GDP)",
+  "Energy intensity (ln)",
+  "Electoral democracy",
+  "Rule of law",
+  "Services (% GDP)",
+  "Manufacturing (% GDP)",
+  "GDP growth (%)",
+  "Renewable energy (% final)"
+ ],
+ "covs_cs": [
+  "Log population",
+  "Urbanization (%)",
+  "Trade openness (% GDP)",
+  "Industry (% GDP)",
+  "Energy intensity (ln)",
+  "Electoral democracy",
+  "Rule of law",
+  "Services (% GDP)",
+  "Renewable energy (% final)"
+ ],
+ "new": [
+  "Services (% GDP)",
+  "Manufacturing (% GDP)",
+  "GDP growth (%)",
+  "Renewable energy (% final)"
+ ]
+}

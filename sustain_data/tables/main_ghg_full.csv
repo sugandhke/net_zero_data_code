@@ -1,0 +1,113 @@
+outcome,estimator,term,cell,ci
+Total GHG per capita,CS,Net-zero adoption (Treat × Post),-5.3%***,"(-0.088, -0.022)"
+Total GHG per capita,DiD,Net-zero adoption (Treat × Post),-6.7%**,"(-0.127, -0.011)"
+Total GHG per capita,DiD,Log population,-1.005***,"(-1.385, -0.624)"
+Total GHG per capita,DiD,Urbanization (%),+0.004,"(-0.008, +0.016)"
+Total GHG per capita,DiD,Trade openness (% GDP),-0.000,"(-0.001, +0.001)"
+Total GHG per capita,DiD,Industry (% GDP),+0.005***,"(+0.002, +0.009)"
+Total GHG per capita,DiD,Energy intensity (ln),+0.301***,"(+0.136, +0.466)"
+Total GHG per capita,DiD,Electoral democracy,+0.012,"(-0.246, +0.270)"
+Total GHG per capita,DiD,Rule of law,+0.071,"(-0.193, +0.336)"
+Total GHG per capita,DiD,Country FE,Yes,
+Total GHG per capita,DiD,Year FE,Yes,
+Total GHG per capita,DiD,Observations,"1,313",
+Total GHG per capita,DiD,R² (within),0.154,
+Total GHG per capita,CS,Observations,"2,470",
+GHG excl. LULUCF,CS,Net-zero adoption (Treat × Post),-2.8%*,"(-0.059, +0.002)"
+GHG excl. LULUCF,DiD,Net-zero adoption (Treat × Post),-2.7%,"(-0.078, +0.023)"
+GHG excl. LULUCF,DiD,Log population,-0.379**,"(-0.747, -0.011)"
+GHG excl. LULUCF,DiD,Urbanization (%),+0.014,"(-0.006, +0.034)"
+GHG excl. LULUCF,DiD,Trade openness (% GDP),+0.000,"(-0.001, +0.001)"
+GHG excl. LULUCF,DiD,Industry (% GDP),+0.007*,"(-0.001, +0.015)"
+GHG excl. LULUCF,DiD,Energy intensity (ln),+0.418**,"(+0.087, +0.750)"
+GHG excl. LULUCF,DiD,Electoral democracy,+0.035,"(-0.276, +0.346)"
+GHG excl. LULUCF,DiD,Rule of law,+0.029,"(-0.238, +0.296)"
+GHG excl. LULUCF,DiD,Country FE,Yes,
+GHG excl. LULUCF,DiD,Year FE,Yes,
+GHG excl. LULUCF,DiD,Observations,"1,303",
+GHG excl. LULUCF,DiD,R² (within),0.175,
+GHG excl. LULUCF,CS,Observations,"2,457",
+CO2 incl. land use,CS,Net-zero adoption (Treat × Post),-7.0%**,"(-0.132, -0.014)"
+CO2 incl. land use,DiD,Net-zero adoption (Treat × Post),-7.1%*,"(-0.160, +0.013)"
+CO2 incl. land use,DiD,Log population,-1.482***,"(-2.195, -0.769)"
+CO2 incl. land use,DiD,Urbanization (%),+0.023*,"(-0.002, +0.048)"
+CO2 incl. land use,DiD,Trade openness (% GDP),-0.001,"(-0.002, +0.001)"
+CO2 incl. land use,DiD,Industry (% GDP),+0.009***,"(+0.004, +0.015)"
+CO2 incl. land use,DiD,Energy intensity (ln),+0.383***,"(+0.121, +0.645)"
+CO2 incl. land use,DiD,Electoral democracy,+0.441,"(-0.136, +1.017)"
+CO2 incl. land use,DiD,Rule of law,-0.297,"(-0.779, +0.185)"
+CO2 incl. land use,DiD,Country FE,Yes,
+CO2 incl. land use,DiD,Year FE,Yes,
+CO2 incl. land use,DiD,Observations,"1,271",
+CO2 incl. land use,DiD,R² (within),0.112,
+CO2 incl. land use,CS,Observations,"2,353",
+Coal CO2,CS,Net-zero adoption (Treat × Post),-21.8%**,"(-0.453, -0.038)"
+Coal CO2,DiD,Net-zero adoption (Treat × Post),-22.2%**,"(-0.476, -0.026)"
+Coal CO2,DiD,Log population,+2.940***,"(+0.791, +5.089)"
+Coal CO2,DiD,Urbanization (%),+0.048,"(-0.043, +0.139)"
+Coal CO2,DiD,Trade openness (% GDP),+0.005,"(-0.007, +0.016)"
+Coal CO2,DiD,Industry (% GDP),+0.028**,"(+0.004, +0.053)"
+Coal CO2,DiD,Energy intensity (ln),+1.195**,"(+0.250, +2.141)"
+Coal CO2,DiD,Electoral democracy,+0.234,"(-1.541, +2.008)"
+Coal CO2,DiD,Rule of law,+0.910,"(-0.703, +2.522)"
+Coal CO2,DiD,Country FE,Yes,
+Coal CO2,DiD,Year FE,Yes,
+Coal CO2,DiD,Observations,852,
+Coal CO2,DiD,R² (within),0.165,
+Coal CO2,CS,Observations,"1,443",
+Gas CO2,CS,Net-zero adoption (Treat × Post),-10.0%***,"(-0.183, -0.028)"
+Gas CO2,DiD,Net-zero adoption (Treat × Post),-5.7%,"(-0.196, +0.079)"
+Gas CO2,DiD,Log population,-0.661,"(-2.101, +0.780)"
+Gas CO2,DiD,Urbanization (%),+0.009,"(-0.035, +0.054)"
+Gas CO2,DiD,Trade openness (% GDP),-0.004*,"(-0.008, +0.000)"
+Gas CO2,DiD,Industry (% GDP),+0.015*,"(-0.002, +0.033)"
+Gas CO2,DiD,Energy intensity (ln),+0.937**,"(+0.197, +1.678)"
+Gas CO2,DiD,Electoral democracy,+0.446,"(-0.914, +1.807)"
+Gas CO2,DiD,Rule of law,+0.099,"(-0.789, +0.987)"
+Gas CO2,DiD,Country FE,Yes,
+Gas CO2,DiD,Year FE,Yes,
+Gas CO2,DiD,Observations,813,
+Gas CO2,DiD,R² (within),0.107,
+Gas CO2,CS,Observations,"1,430",
+Oil CO2,CS,Net-zero adoption (Treat × Post),-0.0%,"(-0.039, +0.039)"
+Oil CO2,DiD,Net-zero adoption (Treat × Post),+1.8%,"(-0.045, +0.080)"
+Oil CO2,DiD,Log population,-0.742**,"(-1.396, -0.088)"
+Oil CO2,DiD,Urbanization (%),+0.008,"(-0.009, +0.025)"
+Oil CO2,DiD,Trade openness (% GDP),-0.000,"(-0.002, +0.002)"
+Oil CO2,DiD,Industry (% GDP),+0.009***,"(+0.004, +0.014)"
+Oil CO2,DiD,Energy intensity (ln),+0.503***,"(+0.210, +0.797)"
+Oil CO2,DiD,Electoral democracy,+0.258,"(-0.109, +0.625)"
+Oil CO2,DiD,Rule of law,-0.078,"(-0.350, +0.195)"
+Oil CO2,DiD,Country FE,Yes,
+Oil CO2,DiD,Year FE,Yes,
+Oil CO2,DiD,Observations,"1,324",
+Oil CO2,DiD,R² (within),0.147,
+Oil CO2,CS,Observations,"2,652",
+Methane (CH4),CS,Net-zero adoption (Treat × Post),+0.3%,"(-0.031, +0.037)"
+Methane (CH4),DiD,Net-zero adoption (Treat × Post),-0.7%,"(-0.048, +0.034)"
+Methane (CH4),DiD,Log population,-0.329**,"(-0.653, -0.005)"
+Methane (CH4),DiD,Urbanization (%),-0.010,"(-0.021, +0.002)"
+Methane (CH4),DiD,Trade openness (% GDP),+0.001,"(-0.000, +0.002)"
+Methane (CH4),DiD,Industry (% GDP),+0.005,"(-0.001, +0.011)"
+Methane (CH4),DiD,Energy intensity (ln),-0.056,"(-0.295, +0.184)"
+Methane (CH4),DiD,Electoral democracy,-0.093,"(-0.291, +0.105)"
+Methane (CH4),DiD,Rule of law,-0.005,"(-0.207, +0.196)"
+Methane (CH4),DiD,Country FE,Yes,
+Methane (CH4),DiD,Year FE,Yes,
+Methane (CH4),DiD,Observations,"1,313",
+Methane (CH4),DiD,R² (within),0.121,
+Methane (CH4),CS,Observations,"2,470",
+Nitrous oxide (N2O),CS,Net-zero adoption (Treat × Post),-0.7%,"(-0.042, +0.029)"
+Nitrous oxide (N2O),DiD,Net-zero adoption (Treat × Post),+0.3%,"(-0.030, +0.036)"
+Nitrous oxide (N2O),DiD,Log population,-0.491***,"(-0.749, -0.234)"
+Nitrous oxide (N2O),DiD,Urbanization (%),-0.010**,"(-0.018, -0.002)"
+Nitrous oxide (N2O),DiD,Trade openness (% GDP),-0.000,"(-0.001, +0.001)"
+Nitrous oxide (N2O),DiD,Industry (% GDP),+0.001,"(-0.000, +0.003)"
+Nitrous oxide (N2O),DiD,Energy intensity (ln),+0.086*,"(-0.004, +0.177)"
+Nitrous oxide (N2O),DiD,Electoral democracy,-0.183*,"(-0.390, +0.025)"
+Nitrous oxide (N2O),DiD,Rule of law,-0.062,"(-0.266, +0.142)"
+Nitrous oxide (N2O),DiD,Country FE,Yes,
+Nitrous oxide (N2O),DiD,Year FE,Yes,
+Nitrous oxide (N2O),DiD,Observations,"1,313",
+Nitrous oxide (N2O),DiD,R² (within),0.121,
+Nitrous oxide (N2O),CS,Observations,"2,470",

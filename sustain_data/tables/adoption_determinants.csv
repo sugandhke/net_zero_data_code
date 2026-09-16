@@ -1,0 +1,12 @@
+variable,coef,se
+"Log GDP per capita (PPP, 2012)",-0.027,(0.072)
+Log GHG per capita (2012),+0.196***,(0.073)
+Log population (2012),+0.026,(0.027)
+"Urbanisation (%, 2012)",-0.006**,(0.003)
+"Trade openness (% GDP, 2012)",-0.001,(0.001)
+"Industry (% GDP, 2012)",-0.009***,(0.003)
+"Energy intensity (ln, 2012)",-0.076,(0.094)
+Electoral democracy (2012),+0.146,(0.317)
+Rule of law (2012),+0.336,(0.273)
+Observations (countries),141,
+R²,0.217,

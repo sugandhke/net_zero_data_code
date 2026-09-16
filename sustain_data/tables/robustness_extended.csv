@@ -1,0 +1,11 @@
+spec,att,se,effect_pct,sig,cell,n_countries,note
+"Baseline (CS, never-treated)",-0.0521,0.016,-5.1,***,-5.1%***,190,
+Anticipation: 1 year,-0.0465,0.0284,-4.5,,-4.5%,190,
+Exclude COVID years (2020-2021),-0.0603,0.1258,-5.9,,-5.9%,190,unbalanced CS
+Exclude Europe,-0.0397,0.0171,-3.9,**,-3.9%**,149,
+Drop later-reversed targets,-0.0512,0.0221,-5.0,**,-5.0%**,138,
+Broad coding: any neutrality-type target,-0.0366,0.017,-3.6,**,-3.6%**,190,
+Total GHG (not per capita),-0.0499,0.017,-4.9,***,-4.9%***,190,
+Consumption-based CO2 pc (leakage test),-0.0843,0.0472,-8.1,*,-8.1%*,118,
+"Covariate-adjusted CS (DR, baseline-2012 X)",-0.0802,0.0253,-7.7,***,-7.7%***,144,complete case
+"Exclude COVID years (2020-2021), 2x2",-0.0842,0.0322,-8.1,***,-8.1%***,165,"2x2 TWFE, 2019 cohort vs never-treated"

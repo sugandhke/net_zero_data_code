@@ -1,0 +1,12 @@
+term,coef,ci
+Net-zero adoption (Treat x Post),-0.069**,"(-0.127, -0.011)"
+Log population,-1.005***,"(-1.385, -0.624)"
+Urbanization (%),+0.004,"(-0.008, +0.016)"
+Trade openness (% GDP),-0.000,"(-0.001, +0.001)"
+Industry (% GDP),+0.005***,"(+0.002, +0.009)"
+Energy intensity (ln),+0.301***,"(+0.136, +0.466)"
+Electoral democracy,+0.012,"(-0.246, +0.270)"
+Rule of law,+0.071,"(-0.193, +0.336)"
+Country FE,Yes,
+Year FE,Yes,
+Observations,"1,313",

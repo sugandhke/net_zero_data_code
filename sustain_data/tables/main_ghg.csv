@@ -1,0 +1,10 @@
+outcome,y,cs_att,cs_se,cs_sig,cs_n,did_att,did_se,did_sig,did_n
+Total GHG per capita,ln_ghgpc,-0.0569,0.0174,***,2470,-0.0689,0.0294,**,1313
+GHG excl. LULUCF,ln_ghgxlucf,-0.0321,0.0146,**,2457,-0.0272,0.0257,,1303
+CO2 incl. land use,ln_co2luc,-0.078,0.028,***,2353,-0.0734,0.0442,*,1271
+Coal CO2,ln_coalco2,-0.2384,0.0972,**,1443,-0.2509,0.1149,**,852
+Gas CO2,ln_gasco2,-0.1089,0.0392,***,1430,-0.0585,0.0701,,813
+Oil CO2,ln_oilco2,-0.0029,0.0194,,2652,0.0175,0.0321,,1324
+Methane (CH4),ln_ch4pc,0.0013,0.0176,,2470,-0.0067,0.0208,,1313
+Nitrous oxide (N2O),ln_n2opc,-0.0114,0.0181,,2470,0.0027,0.0169,,1313
+CO2 intensity of GDP,ln_co2gdp,-0.1208,0.0189,***,1749,0.0171,0.0211,,1279

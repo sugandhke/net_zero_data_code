@@ -1,0 +1,37 @@
+[
+ {
+  "spec": "Baseline (CS, never-treated)",
+  "effect_pct": -5.1,
+  "se": 0.016,
+  "sig": "***",
+  "cell": "-5.1%***"
+ },
+ {
+  "spec": "Not-yet-treated controls",
+  "effect_pct": -5.3,
+  "se": 0.0156,
+  "sig": "***",
+  "cell": "-5.3%***"
+ },
+ {
+  "spec": "Exclude COVID (panel ends 2019)",
+  "effect_pct": -3.0,
+  "se": 0.0119,
+  "sig": "**",
+  "cell": "-3.0%**"
+ },
+ {
+  "spec": "Placebo (fake 2015 timing, pre-2019)",
+  "effect_pct": -1.5,
+  "se": 0.0209,
+  "sig": "",
+  "cell": "-1.5%"
+ },
+ {
+  "spec": "Treatment = binding (law) year",
+  "effect_pct": -0.8,
+  "se": 0.0142,
+  "sig": "",
+  "cell": "-0.8%"
+ }
+]

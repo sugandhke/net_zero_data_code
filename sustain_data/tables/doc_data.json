@@ -1,0 +1,3028 @@
+{
+ "main_full": [
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "CS",
+   "term": "Net-zero adoption (Treat x Post)",
+   "cell": "-5.1%***",
+   "ci": "(-0.085, -0.020)"
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "CS",
+   "term": "Middle income (ref. low)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "CS",
+   "term": "High income (ref. low)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "DiD",
+   "term": "Log population",
+   "cell": "-1.125***",
+   "ci": "(-1.534, -0.716)"
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "CS",
+   "term": "Log population",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "DiD",
+   "term": "Urbanization (%)",
+   "cell": "-0.001",
+   "ci": "(-0.012, +0.010)"
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "CS",
+   "term": "Urbanization (%)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "DiD",
+   "term": "Trade openness (% GDP)",
+   "cell": "-0.000",
+   "ci": "(-0.001, +0.001)"
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "CS",
+   "term": "Trade openness (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "DiD",
+   "term": "Industry (% GDP)",
+   "cell": "+0.001",
+   "ci": "(-0.005, +0.006)"
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "CS",
+   "term": "Industry (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "DiD",
+   "term": "Energy intensity (ln)",
+   "cell": "+0.204**",
+   "ci": "(+0.020, +0.389)"
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "CS",
+   "term": "Energy intensity (ln)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "DiD",
+   "term": "Services (% GDP)",
+   "cell": "-0.002",
+   "ci": "(-0.009, +0.004)"
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "CS",
+   "term": "Services (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "DiD",
+   "term": "Manufacturing (% GDP)",
+   "cell": "+0.002",
+   "ci": "(-0.006, +0.011)"
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "CS",
+   "term": "Manufacturing (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "DiD",
+   "term": "GDP growth (%)",
+   "cell": "+0.003***",
+   "ci": "(+0.001, +0.006)"
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "CS",
+   "term": "GDP growth (%)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "DiD",
+   "term": "Renewable energy (% final)",
+   "cell": "-0.012***",
+   "ci": "(-0.018, -0.007)"
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "CS",
+   "term": "Renewable energy (% final)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "DiD",
+   "term": "Electoral democracy",
+   "cell": "-0.064",
+   "ci": "(-0.295, +0.167)"
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "CS",
+   "term": "Electoral democracy",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "DiD",
+   "term": "Rule of law",
+   "cell": "+0.036",
+   "ci": "(-0.208, +0.280)"
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "CS",
+   "term": "Rule of law",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "DiD",
+   "term": "Net-zero adoption (Treat x Post)",
+   "cell": "-5.6%**",
+   "ci": "(-0.110, -0.005)"
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "DiD",
+   "term": "Country FE",
+   "cell": "Yes",
+   "ci": ""
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "DiD",
+   "term": "Year FE",
+   "cell": "Yes",
+   "ci": ""
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "DiD",
+   "term": "Observations",
+   "cell": "1,188",
+   "ci": ""
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "CS",
+   "term": "Observations",
+   "cell": "2,470",
+   "ci": ""
+  },
+  {
+   "outcome": "Total GHG per capita",
+   "estimator": "DiD",
+   "term": "R\u00b2 (within)",
+   "cell": "0.208",
+   "ci": ""
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "CS",
+   "term": "Net-zero adoption (Treat x Post)",
+   "cell": "-2.9%**",
+   "ci": "(-0.057, -0.001)"
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "CS",
+   "term": "Middle income (ref. low)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "CS",
+   "term": "High income (ref. low)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "DiD",
+   "term": "Log population",
+   "cell": "-0.463***",
+   "ci": "(-0.772, -0.154)"
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "CS",
+   "term": "Log population",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "DiD",
+   "term": "Urbanization (%)",
+   "cell": "+0.003",
+   "ci": "(-0.010, +0.017)"
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "CS",
+   "term": "Urbanization (%)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "DiD",
+   "term": "Trade openness (% GDP)",
+   "cell": "-0.000",
+   "ci": "(-0.001, +0.001)"
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "CS",
+   "term": "Trade openness (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "DiD",
+   "term": "Industry (% GDP)",
+   "cell": "+0.011***",
+   "ci": "(+0.006, +0.015)"
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "CS",
+   "term": "Industry (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "DiD",
+   "term": "Energy intensity (ln)",
+   "cell": "+0.439***",
+   "ci": "(+0.204, +0.675)"
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "CS",
+   "term": "Energy intensity (ln)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "DiD",
+   "term": "Services (% GDP)",
+   "cell": "+0.002",
+   "ci": "(-0.004, +0.008)"
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "CS",
+   "term": "Services (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "DiD",
+   "term": "Manufacturing (% GDP)",
+   "cell": "-0.003",
+   "ci": "(-0.013, +0.007)"
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "CS",
+   "term": "Manufacturing (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "DiD",
+   "term": "GDP growth (%)",
+   "cell": "+0.002**",
+   "ci": "(+0.000, +0.004)"
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "CS",
+   "term": "GDP growth (%)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "DiD",
+   "term": "Renewable energy (% final)",
+   "cell": "-0.020***",
+   "ci": "(-0.025, -0.014)"
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "CS",
+   "term": "Renewable energy (% final)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "DiD",
+   "term": "Electoral democracy",
+   "cell": "-0.025",
+   "ci": "(-0.228, +0.178)"
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "CS",
+   "term": "Electoral democracy",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "DiD",
+   "term": "Rule of law",
+   "cell": "-0.032",
+   "ci": "(-0.243, +0.178)"
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "CS",
+   "term": "Rule of law",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "DiD",
+   "term": "Net-zero adoption (Treat x Post)",
+   "cell": "-0.7%",
+   "ci": "(-0.045, +0.032)"
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "DiD",
+   "term": "Country FE",
+   "cell": "Yes",
+   "ci": ""
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "DiD",
+   "term": "Year FE",
+   "cell": "Yes",
+   "ci": ""
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "DiD",
+   "term": "Observations",
+   "cell": "1,178",
+   "ci": ""
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "CS",
+   "term": "Observations",
+   "cell": "2,457",
+   "ci": ""
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "estimator": "DiD",
+   "term": "R\u00b2 (within)",
+   "cell": "0.471",
+   "ci": ""
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "CS",
+   "term": "Net-zero adoption (Treat x Post)",
+   "cell": "-6.6%**",
+   "ci": "(-0.122, -0.015)"
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "CS",
+   "term": "Middle income (ref. low)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "CS",
+   "term": "High income (ref. low)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "DiD",
+   "term": "Log population",
+   "cell": "-1.697***",
+   "ci": "(-2.454, -0.941)"
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "CS",
+   "term": "Log population",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "DiD",
+   "term": "Urbanization (%)",
+   "cell": "+0.017",
+   "ci": "(-0.007, +0.042)"
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "CS",
+   "term": "Urbanization (%)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "DiD",
+   "term": "Trade openness (% GDP)",
+   "cell": "-0.001",
+   "ci": "(-0.002, +0.001)"
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "CS",
+   "term": "Trade openness (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "DiD",
+   "term": "Industry (% GDP)",
+   "cell": "+0.014*",
+   "ci": "(-0.002, +0.029)"
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "CS",
+   "term": "Industry (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "DiD",
+   "term": "Energy intensity (ln)",
+   "cell": "+0.297*",
+   "ci": "(-0.027, +0.622)"
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "CS",
+   "term": "Energy intensity (ln)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "DiD",
+   "term": "Services (% GDP)",
+   "cell": "+0.011",
+   "ci": "(-0.002, +0.024)"
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "CS",
+   "term": "Services (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "DiD",
+   "term": "Manufacturing (% GDP)",
+   "cell": "+0.006",
+   "ci": "(-0.013, +0.025)"
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "CS",
+   "term": "Manufacturing (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "DiD",
+   "term": "GDP growth (%)",
+   "cell": "+0.005**",
+   "ci": "(+0.001, +0.009)"
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "CS",
+   "term": "GDP growth (%)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "DiD",
+   "term": "Renewable energy (% final)",
+   "cell": "-0.019***",
+   "ci": "(-0.027, -0.010)"
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "CS",
+   "term": "Renewable energy (% final)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "DiD",
+   "term": "Electoral democracy",
+   "cell": "+0.321",
+   "ci": "(-0.254, +0.895)"
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "CS",
+   "term": "Electoral democracy",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "DiD",
+   "term": "Rule of law",
+   "cell": "-0.350",
+   "ci": "(-0.833, +0.132)"
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "CS",
+   "term": "Rule of law",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "DiD",
+   "term": "Net-zero adoption (Treat x Post)",
+   "cell": "-5.3%",
+   "ci": "(-0.141, +0.033)"
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "DiD",
+   "term": "Country FE",
+   "cell": "Yes",
+   "ci": ""
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "DiD",
+   "term": "Year FE",
+   "cell": "Yes",
+   "ci": ""
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "DiD",
+   "term": "Observations",
+   "cell": "1,149",
+   "ci": ""
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "CS",
+   "term": "Observations",
+   "cell": "2,353",
+   "ci": ""
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "estimator": "DiD",
+   "term": "R\u00b2 (within)",
+   "cell": "0.155",
+   "ci": ""
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "CS",
+   "term": "Net-zero adoption (Treat x Post)",
+   "cell": "-19.9%**",
+   "ci": "(-0.426, -0.018)"
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "CS",
+   "term": "Middle income (ref. low)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "CS",
+   "term": "High income (ref. low)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "DiD",
+   "term": "Log population",
+   "cell": "+2.864***",
+   "ci": "(+0.746, +4.982)"
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "CS",
+   "term": "Log population",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "DiD",
+   "term": "Urbanization (%)",
+   "cell": "+0.047",
+   "ci": "(-0.022, +0.115)"
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "CS",
+   "term": "Urbanization (%)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "DiD",
+   "term": "Trade openness (% GDP)",
+   "cell": "+0.004",
+   "ci": "(-0.006, +0.013)"
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "CS",
+   "term": "Trade openness (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "DiD",
+   "term": "Industry (% GDP)",
+   "cell": "+0.079***",
+   "ci": "(+0.035, +0.123)"
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "CS",
+   "term": "Industry (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "DiD",
+   "term": "Energy intensity (ln)",
+   "cell": "+1.174**",
+   "ci": "(+0.137, +2.210)"
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "CS",
+   "term": "Energy intensity (ln)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "DiD",
+   "term": "Services (% GDP)",
+   "cell": "+0.056**",
+   "ci": "(+0.012, +0.099)"
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "CS",
+   "term": "Services (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "DiD",
+   "term": "Manufacturing (% GDP)",
+   "cell": "-0.030",
+   "ci": "(-0.071, +0.012)"
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "CS",
+   "term": "Manufacturing (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "DiD",
+   "term": "GDP growth (%)",
+   "cell": "+0.028***",
+   "ci": "(+0.009, +0.048)"
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "CS",
+   "term": "GDP growth (%)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "DiD",
+   "term": "Renewable energy (% final)",
+   "cell": "-0.034***",
+   "ci": "(-0.055, -0.014)"
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "CS",
+   "term": "Renewable energy (% final)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "DiD",
+   "term": "Electoral democracy",
+   "cell": "+0.067",
+   "ci": "(-1.526, +1.659)"
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "CS",
+   "term": "Electoral democracy",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "DiD",
+   "term": "Rule of law",
+   "cell": "+0.753",
+   "ci": "(-0.686, +2.193)"
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "CS",
+   "term": "Rule of law",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "DiD",
+   "term": "Net-zero adoption (Treat x Post)",
+   "cell": "-21.0%**",
+   "ci": "(-0.447, -0.025)"
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "DiD",
+   "term": "Country FE",
+   "cell": "Yes",
+   "ci": ""
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "DiD",
+   "term": "Year FE",
+   "cell": "Yes",
+   "ci": ""
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "DiD",
+   "term": "Observations",
+   "cell": "791",
+   "ci": ""
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "CS",
+   "term": "Observations",
+   "cell": "1,443",
+   "ci": ""
+  },
+  {
+   "outcome": "Coal CO2",
+   "estimator": "DiD",
+   "term": "R\u00b2 (within)",
+   "cell": "0.261",
+   "ci": ""
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "CS",
+   "term": "Net-zero adoption (Treat x Post)",
+   "cell": "-9.2%**",
+   "ci": "(-0.173, -0.020)"
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "CS",
+   "term": "Middle income (ref. low)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "CS",
+   "term": "High income (ref. low)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "DiD",
+   "term": "Log population",
+   "cell": "-0.236",
+   "ci": "(-1.743, +1.270)"
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "CS",
+   "term": "Log population",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "DiD",
+   "term": "Urbanization (%)",
+   "cell": "+0.011",
+   "ci": "(-0.037, +0.058)"
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "CS",
+   "term": "Urbanization (%)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "DiD",
+   "term": "Trade openness (% GDP)",
+   "cell": "-0.002",
+   "ci": "(-0.005, +0.001)"
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "CS",
+   "term": "Trade openness (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "DiD",
+   "term": "Industry (% GDP)",
+   "cell": "-0.011",
+   "ci": "(-0.027, +0.005)"
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "CS",
+   "term": "Industry (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "DiD",
+   "term": "Energy intensity (ln)",
+   "cell": "+0.378*",
+   "ci": "(-0.019, +0.775)"
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "CS",
+   "term": "Energy intensity (ln)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "DiD",
+   "term": "Services (% GDP)",
+   "cell": "-0.018**",
+   "ci": "(-0.036, -0.000)"
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "CS",
+   "term": "Services (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "DiD",
+   "term": "Manufacturing (% GDP)",
+   "cell": "+0.010",
+   "ci": "(-0.015, +0.035)"
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "CS",
+   "term": "Manufacturing (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "DiD",
+   "term": "GDP growth (%)",
+   "cell": "-0.002",
+   "ci": "(-0.005, +0.002)"
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "CS",
+   "term": "GDP growth (%)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "DiD",
+   "term": "Renewable energy (% final)",
+   "cell": "-0.008",
+   "ci": "(-0.027, +0.010)"
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "CS",
+   "term": "Renewable energy (% final)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "DiD",
+   "term": "Electoral democracy",
+   "cell": "-0.142",
+   "ci": "(-0.845, +0.560)"
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "CS",
+   "term": "Electoral democracy",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "DiD",
+   "term": "Rule of law",
+   "cell": "+0.413",
+   "ci": "(-0.181, +1.007)"
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "CS",
+   "term": "Rule of law",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "DiD",
+   "term": "Net-zero adoption (Treat x Post)",
+   "cell": "-10.1%*",
+   "ci": "(-0.219, +0.006)"
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "DiD",
+   "term": "Country FE",
+   "cell": "Yes",
+   "ci": ""
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "DiD",
+   "term": "Year FE",
+   "cell": "Yes",
+   "ci": ""
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "DiD",
+   "term": "Observations",
+   "cell": "737",
+   "ci": ""
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "CS",
+   "term": "Observations",
+   "cell": "1,430",
+   "ci": ""
+  },
+  {
+   "outcome": "Gas CO2",
+   "estimator": "DiD",
+   "term": "R\u00b2 (within)",
+   "cell": "0.087",
+   "ci": ""
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "CS",
+   "term": "Net-zero adoption (Treat x Post)",
+   "cell": "-0.1%",
+   "ci": "(-0.040, +0.038)"
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "CS",
+   "term": "Middle income (ref. low)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "CS",
+   "term": "High income (ref. low)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "DiD",
+   "term": "Log population",
+   "cell": "-0.822**",
+   "ci": "(-1.482, -0.162)"
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "CS",
+   "term": "Log population",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "DiD",
+   "term": "Urbanization (%)",
+   "cell": "+0.000",
+   "ci": "(-0.014, +0.014)"
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "CS",
+   "term": "Urbanization (%)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "DiD",
+   "term": "Trade openness (% GDP)",
+   "cell": "+0.000",
+   "ci": "(-0.002, +0.002)"
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "CS",
+   "term": "Trade openness (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "DiD",
+   "term": "Industry (% GDP)",
+   "cell": "+0.008***",
+   "ci": "(+0.002, +0.014)"
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "CS",
+   "term": "Industry (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "DiD",
+   "term": "Energy intensity (ln)",
+   "cell": "+0.331**",
+   "ci": "(+0.018, +0.644)"
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "CS",
+   "term": "Energy intensity (ln)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "DiD",
+   "term": "Services (% GDP)",
+   "cell": "+0.003",
+   "ci": "(-0.005, +0.011)"
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "CS",
+   "term": "Services (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "DiD",
+   "term": "Manufacturing (% GDP)",
+   "cell": "-0.007",
+   "ci": "(-0.018, +0.005)"
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "CS",
+   "term": "Manufacturing (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "DiD",
+   "term": "GDP growth (%)",
+   "cell": "+0.004**",
+   "ci": "(+0.000, +0.008)"
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "CS",
+   "term": "GDP growth (%)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "DiD",
+   "term": "Renewable energy (% final)",
+   "cell": "-0.026***",
+   "ci": "(-0.033, -0.019)"
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "CS",
+   "term": "Renewable energy (% final)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "DiD",
+   "term": "Electoral democracy",
+   "cell": "+0.203",
+   "ci": "(-0.101, +0.506)"
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "CS",
+   "term": "Electoral democracy",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "DiD",
+   "term": "Rule of law",
+   "cell": "-0.144",
+   "ci": "(-0.379, +0.091)"
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "CS",
+   "term": "Rule of law",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "DiD",
+   "term": "Net-zero adoption (Treat x Post)",
+   "cell": "+1.7%",
+   "ci": "(-0.038, +0.072)"
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "DiD",
+   "term": "Country FE",
+   "cell": "Yes",
+   "ci": ""
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "DiD",
+   "term": "Year FE",
+   "cell": "Yes",
+   "ci": ""
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "DiD",
+   "term": "Observations",
+   "cell": "1,199",
+   "ci": ""
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "CS",
+   "term": "Observations",
+   "cell": "2,652",
+   "ci": ""
+  },
+  {
+   "outcome": "Oil CO2",
+   "estimator": "DiD",
+   "term": "R\u00b2 (within)",
+   "cell": "0.328",
+   "ci": ""
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "CS",
+   "term": "Net-zero adoption (Treat x Post)",
+   "cell": "+0.1%",
+   "ci": "(-0.031, +0.034)"
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "CS",
+   "term": "Middle income (ref. low)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "CS",
+   "term": "High income (ref. low)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "DiD",
+   "term": "Log population",
+   "cell": "-0.300*",
+   "ci": "(-0.623, +0.023)"
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "CS",
+   "term": "Log population",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "DiD",
+   "term": "Urbanization (%)",
+   "cell": "-0.012**",
+   "ci": "(-0.022, -0.003)"
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "CS",
+   "term": "Urbanization (%)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "DiD",
+   "term": "Trade openness (% GDP)",
+   "cell": "+0.001",
+   "ci": "(-0.000, +0.002)"
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "CS",
+   "term": "Trade openness (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "DiD",
+   "term": "Industry (% GDP)",
+   "cell": "+0.005*",
+   "ci": "(-0.000, +0.010)"
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "CS",
+   "term": "Industry (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "DiD",
+   "term": "Energy intensity (ln)",
+   "cell": "-0.052",
+   "ci": "(-0.237, +0.134)"
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "CS",
+   "term": "Energy intensity (ln)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "DiD",
+   "term": "Services (% GDP)",
+   "cell": "-0.003",
+   "ci": "(-0.008, +0.002)"
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "CS",
+   "term": "Services (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "DiD",
+   "term": "Manufacturing (% GDP)",
+   "cell": "-0.009*",
+   "ci": "(-0.017, +0.000)"
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "CS",
+   "term": "Manufacturing (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "DiD",
+   "term": "GDP growth (%)",
+   "cell": "+0.001",
+   "ci": "(-0.002, +0.004)"
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "CS",
+   "term": "GDP growth (%)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "DiD",
+   "term": "Renewable energy (% final)",
+   "cell": "-0.002",
+   "ci": "(-0.006, +0.002)"
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "CS",
+   "term": "Renewable energy (% final)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "DiD",
+   "term": "Electoral democracy",
+   "cell": "-0.140*",
+   "ci": "(-0.305, +0.025)"
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "CS",
+   "term": "Electoral democracy",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "DiD",
+   "term": "Rule of law",
+   "cell": "-0.035",
+   "ci": "(-0.231, +0.161)"
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "CS",
+   "term": "Rule of law",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "DiD",
+   "term": "Net-zero adoption (Treat x Post)",
+   "cell": "-0.5%",
+   "ci": "(-0.042, +0.032)"
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "DiD",
+   "term": "Country FE",
+   "cell": "Yes",
+   "ci": ""
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "DiD",
+   "term": "Year FE",
+   "cell": "Yes",
+   "ci": ""
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "DiD",
+   "term": "Observations",
+   "cell": "1,188",
+   "ci": ""
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "CS",
+   "term": "Observations",
+   "cell": "2,470",
+   "ci": ""
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "estimator": "DiD",
+   "term": "R\u00b2 (within)",
+   "cell": "0.186",
+   "ci": ""
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "CS",
+   "term": "Net-zero adoption (Treat x Post)",
+   "cell": "-0.5%",
+   "ci": "(-0.039, +0.028)"
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "CS",
+   "term": "Middle income (ref. low)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "CS",
+   "term": "High income (ref. low)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "DiD",
+   "term": "Log population",
+   "cell": "-0.473***",
+   "ci": "(-0.753, -0.194)"
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "CS",
+   "term": "Log population",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "DiD",
+   "term": "Urbanization (%)",
+   "cell": "-0.012***",
+   "ci": "(-0.020, -0.004)"
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "CS",
+   "term": "Urbanization (%)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "DiD",
+   "term": "Trade openness (% GDP)",
+   "cell": "+0.000",
+   "ci": "(-0.001, +0.001)"
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "CS",
+   "term": "Trade openness (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "DiD",
+   "term": "Industry (% GDP)",
+   "cell": "+0.001",
+   "ci": "(-0.003, +0.005)"
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "CS",
+   "term": "Industry (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "DiD",
+   "term": "Energy intensity (ln)",
+   "cell": "+0.044",
+   "ci": "(-0.063, +0.151)"
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "CS",
+   "term": "Energy intensity (ln)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "DiD",
+   "term": "Services (% GDP)",
+   "cell": "-0.000",
+   "ci": "(-0.004, +0.004)"
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "CS",
+   "term": "Services (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "DiD",
+   "term": "Manufacturing (% GDP)",
+   "cell": "+0.001",
+   "ci": "(-0.004, +0.007)"
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "CS",
+   "term": "Manufacturing (% GDP)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "DiD",
+   "term": "GDP growth (%)",
+   "cell": "+0.001",
+   "ci": "(-0.000, +0.002)"
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "CS",
+   "term": "GDP growth (%)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "DiD",
+   "term": "Renewable energy (% final)",
+   "cell": "-0.004***",
+   "ci": "(-0.007, -0.001)"
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "CS",
+   "term": "Renewable energy (% final)",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "DiD",
+   "term": "Electoral democracy",
+   "cell": "-0.235**",
+   "ci": "(-0.464, -0.007)"
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "CS",
+   "term": "Electoral democracy",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "DiD",
+   "term": "Rule of law",
+   "cell": "-0.104",
+   "ci": "(-0.291, +0.083)"
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "CS",
+   "term": "Rule of law",
+   "cell": "\u2014",
+   "ci": ""
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "DiD",
+   "term": "Net-zero adoption (Treat x Post)",
+   "cell": "-0.1%",
+   "ci": "(-0.034, +0.032)"
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "DiD",
+   "term": "Country FE",
+   "cell": "Yes",
+   "ci": ""
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "DiD",
+   "term": "Year FE",
+   "cell": "Yes",
+   "ci": ""
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "DiD",
+   "term": "Observations",
+   "cell": "1,188",
+   "ci": ""
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "CS",
+   "term": "Observations",
+   "cell": "2,470",
+   "ci": ""
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "estimator": "DiD",
+   "term": "R\u00b2 (within)",
+   "cell": "0.140",
+   "ci": ""
+  }
+ ],
+ "main_compact": [
+  {
+   "outcome": "Total GHG per capita",
+   "y": "ln_ghgpc",
+   "csadj_att": -0.0532,
+   "csadj_se": 0.0245,
+   "csadj_sig": "**",
+   "csadj_n": 2470,
+   "csunc_att": -0.0521,
+   "csunc_se": 0.0166,
+   "csunc_sig": "***",
+   "did_att": -0.0574,
+   "did_se": 0.0268,
+   "did_sig": "**",
+   "did_n": 1188
+  },
+  {
+   "outcome": "GHG excl. LULUCF",
+   "y": "ln_ghgxlucf",
+   "csadj_att": -0.0345,
+   "csadj_se": 0.0144,
+   "csadj_sig": "**",
+   "csadj_n": 2457,
+   "csunc_att": -0.0293,
+   "csunc_se": 0.0143,
+   "csunc_sig": "**",
+   "did_att": -0.0066,
+   "did_se": 0.0198,
+   "did_sig": "",
+   "did_n": 1178
+  },
+  {
+   "outcome": "CO2 incl. land use",
+   "y": "ln_co2luc",
+   "csadj_att": -0.0085,
+   "csadj_se": 0.0409,
+   "csadj_sig": "",
+   "csadj_n": 2353,
+   "csunc_att": -0.0687,
+   "csunc_se": 0.0272,
+   "csunc_sig": "**",
+   "did_att": -0.0541,
+   "did_se": 0.0443,
+   "did_sig": "",
+   "did_n": 1149
+  },
+  {
+   "outcome": "Coal CO2",
+   "y": "ln_coalco2",
+   "csadj_att": -0.1106,
+   "csadj_se": 0.1025,
+   "csadj_sig": "",
+   "csadj_n": 1443,
+   "csunc_att": -0.2222,
+   "csunc_se": 0.104,
+   "csunc_sig": "**",
+   "did_att": -0.2361,
+   "did_se": 0.1078,
+   "did_sig": "**",
+   "did_n": 791
+  },
+  {
+   "outcome": "Gas CO2",
+   "y": "ln_gasco2",
+   "csadj_att": -0.1243,
+   "csadj_se": 0.0381,
+   "csadj_sig": "***",
+   "csadj_n": 1430,
+   "csunc_att": -0.0966,
+   "csunc_se": 0.0392,
+   "csunc_sig": "**",
+   "did_att": -0.1064,
+   "did_se": 0.0575,
+   "did_sig": "*",
+   "did_n": 737
+  },
+  {
+   "outcome": "Oil CO2",
+   "y": "ln_oilco2",
+   "csadj_att": -0.0016,
+   "csadj_se": 0.0257,
+   "csadj_sig": "",
+   "csadj_n": 2652,
+   "csunc_att": -0.0011,
+   "csunc_se": 0.02,
+   "csunc_sig": "",
+   "did_att": 0.0171,
+   "did_se": 0.0281,
+   "did_sig": "",
+   "did_n": 1199
+  },
+  {
+   "outcome": "Methane (CH4)",
+   "y": "ln_ch4pc",
+   "csadj_att": -0.0268,
+   "csadj_se": 0.0146,
+   "csadj_sig": "*",
+   "csadj_n": 2470,
+   "csunc_att": 0.0014,
+   "csunc_se": 0.0166,
+   "csunc_sig": "",
+   "did_att": -0.005,
+   "did_se": 0.0188,
+   "did_sig": "",
+   "did_n": 1188
+  },
+  {
+   "outcome": "Nitrous oxide (N2O)",
+   "y": "ln_n2opc",
+   "csadj_att": -0.0157,
+   "csadj_se": 0.0165,
+   "csadj_sig": "",
+   "csadj_n": 2470,
+   "csunc_att": -0.0053,
+   "csunc_se": 0.0172,
+   "csunc_sig": "",
+   "did_att": -0.0012,
+   "did_se": 0.0169,
+   "did_sig": "",
+   "did_n": 1188
+  }
+ ],
+ "summary": [
+  {
+   "variable": "GHG per capita (t CO2e)",
+   "mean": 7.562986234817813,
+   "sd": 7.396172162570086,
+   "min": 0.65,
+   "max": 61.08,
+   "n": 2470
+  },
+  {
+   "variable": "CO2 per capita (t)",
+   "mean": 4.98509653092006,
+   "sd": 5.998681987303018,
+   "min": 0.022,
+   "max": 49.152,
+   "n": 2652
+  },
+  {
+   "variable": "GHG excl. LULUCF per capita (t)",
+   "mean": 5.736467643467644,
+   "sd": 7.157671051294076,
+   "min": 0.212,
+   "max": 60.921,
+   "n": 2457
+  },
+  {
+   "variable": "Coal CO2 per capita (t)",
+   "mean": 1.2731566609491136,
+   "sd": 2.105102703141848,
+   "min": 0.0,
+   "max": 13.953,
+   "n": 1749
+  },
+  {
+   "variable": "Gas CO2 per capita (t)",
+   "mean": 2.1719786324786323,
+   "sd": 4.6310842058152355,
+   "min": 0.0,
+   "max": 42.822,
+   "n": 1638
+  },
+  {
+   "variable": "Oil CO2 per capita (t)",
+   "mean": 2.593378582202112,
+   "sd": 3.4053839681511286,
+   "min": 0.022,
+   "max": 42.354,
+   "n": 2652
+  },
+  {
+   "variable": "Methane per capita (t CO2e)",
+   "mean": 1.5773004048582997,
+   "sd": 1.9978918136647907,
+   "min": 0.072,
+   "max": 18.857,
+   "n": 2470
+  },
+  {
+   "variable": "N2O per capita (t CO2e)",
+   "mean": 0.4768725961538462,
+   "sd": 0.5532517564420769,
+   "min": 0.0,
+   "max": 4.503,
+   "n": 2496
+  },
+  {
+   "variable": "CO2 intensity (kg/$)",
+   "mean": 0.2544579759862778,
+   "sd": 0.1793868181529019,
+   "min": 0.035,
+   "max": 1.636,
+   "n": 1749
+  },
+  {
+   "variable": "GDP per capita (PPP $)",
+   "mean": 25923.918210982676,
+   "sd": 26219.78015665044,
+   "min": 995.3190684500232,
+   "max": 174569.52317126683,
+   "n": 2408
+  },
+  {
+   "variable": "Population",
+   "mean": 37032911.18952063,
+   "sd": 141310685.18825004,
+   "min": 501.0,
+   "max": 1450935785.0,
+   "n": 2691
+  },
+  {
+   "variable": "Urbanization (%)",
+   "mean": 61.08037918896505,
+   "sd": 23.10626501142381,
+   "min": 12.2244596804615,
+   "max": 100.0,
+   "n": 2561
+  },
+  {
+   "variable": "Trade openness (% GDP)",
+   "mean": 91.41692471621953,
+   "sd": 58.374162235756856,
+   "min": 1.99541210225008,
+   "max": 442.6200191272994,
+   "n": 2188
+  },
+  {
+   "variable": "Industry (% GDP)",
+   "mean": 25.521965741127136,
+   "sd": 11.684293965890392,
+   "min": 2.0863020184691,
+   "max": 78.89952807928267,
+   "n": 2414
+  },
+  {
+   "variable": "Energy intensity (MJ/$)",
+   "mean": 4.845724962630792,
+   "sd": 2.937252933559277,
+   "min": 0.35,
+   "max": 24.82,
+   "n": 2007
+  },
+  {
+   "variable": "Renewable electricity (%)",
+   "mean": 34.58456516492357,
+   "sd": 32.362672907227214,
+   "min": 0.0,
+   "max": 100.0,
+   "n": 2486
+  },
+  {
+   "variable": "Fossil electricity (%)",
+   "mean": 61.66266532582462,
+   "sd": 33.43008083389547,
+   "min": 0.0,
+   "max": 100.0,
+   "n": 2486
+  },
+  {
+   "variable": "PM2.5 (ug/m3)",
+   "mean": 26.17257341740159,
+   "sd": 17.300744443479545,
+   "min": 4.89518090216668,
+   "max": 107.144665250434,
+   "n": 1674
+  },
+  {
+   "variable": "Electoral democracy (V-Dem)",
+   "mean": 0.5131524559777572,
+   "sd": 0.2631382593849629,
+   "min": 0.015,
+   "max": 0.923,
+   "n": 2158
+  },
+  {
+   "variable": "Rule of law (V-Dem)",
+   "mean": 0.5440542168674699,
+   "sd": 0.3144320299578809,
+   "min": 0.008,
+   "max": 0.999,
+   "n": 2158
+  }
+ ],
+ "struct": {
+  "countries": 209,
+  "years": "2012-2024",
+  "observations": 2717,
+  "treated": 133,
+  "never_treated": 76
+ },
+ "pretrends_cs": [
+  {
+   "event_time": -7,
+   "att": 0.0191334603785542,
+   "se": 0.0306204789902533,
+   "z": 0.6248582977635498,
+   "sig": ""
+  },
+  {
+   "event_time": -6,
+   "att": 0.0088486357421886,
+   "se": 0.0152121041184005,
+   "z": 0.5816838797129584,
+   "sig": ""
+  },
+  {
+   "event_time": -5,
+   "att": -0.0051859257352163,
+   "se": 0.0172363405891101,
+   "z": -0.3008716211196714,
+   "sig": ""
+  },
+  {
+   "event_time": -4,
+   "att": -0.021681550186346,
+   "se": 0.0191159264194319,
+   "z": -1.1342139381906229,
+   "sig": ""
+  },
+  {
+   "event_time": -3,
+   "att": 0.0037759292304022,
+   "se": 0.0122236091322859,
+   "z": 0.3089046115217314,
+   "sig": ""
+  },
+  {
+   "event_time": -2,
+   "att": -0.0120864241073461,
+   "se": 0.0134863943276571,
+   "z": -0.8961938835319389,
+   "sig": ""
+  },
+  {
+   "event_time": -1,
+   "att": 0.0056590581127639,
+   "se": 0.0266949214788345,
+   "z": 0.211990063999658,
+   "sig": ""
+  },
+  {
+   "event_time": 0,
+   "att": -0.0257580669102373,
+   "se": 0.0106842668612519,
+   "z": -2.410840841466885,
+   "sig": "**"
+  },
+  {
+   "event_time": 1,
+   "att": -0.0277932501214417,
+   "se": 0.0158149093492218,
+   "z": -1.757408120888748,
+   "sig": "*"
+  },
+  {
+   "event_time": 2,
+   "att": -0.0355726006539685,
+   "se": 0.0170937412297522,
+   "z": -2.0810307220547606,
+   "sig": "**"
+  },
+  {
+   "event_time": 3,
+   "att": -0.0576732510493733,
+   "se": 0.0209003445003993,
+   "z": -2.7594402115367735,
+   "sig": "***"
+  },
+  {
+   "event_time": 4,
+   "att": -0.0882485837748116,
+   "se": 0.0249661008334801,
+   "z": -3.534736335618259,
+   "sig": "***"
+  },
+  {
+   "event_time": 5,
+   "att": -0.0923639219076215,
+   "se": 0.029503747386913,
+   "z": -3.1305827255215526,
+   "sig": "***"
+  }
+ ],
+ "pretrends_sum": [
+  {
+   "test": "CS event-study, leads e<=-1 (diag Wald approx)",
+   "stat": "chi2(7)=3.05",
+   "p": 0.88,
+   "verdict": "fail to reject parallel trends"
+  },
+  {
+   "test": "2x2 TWFE event-study, leads e<=-2 (cluster Wald)",
+   "stat": "chi2(6)=6.72",
+   "p": 0.348,
+   "verdict": "fail to reject parallel trends"
+  }
+ ],
+ "income": [
+  {
+   "Outcome": "Total GHG",
+   "Low": "-0.034 (-0.091, +0.022)",
+   "Middle": "-0.056* (-0.120, +0.008)",
+   "High": "-0.047 (-0.108, +0.014)"
+  },
+  {
+   "Outcome": "GHG excl. LULUCF",
+   "Low": "+0.008 (-0.041, +0.057)",
+   "Middle": "-0.031 (-0.070, +0.008)",
+   "High": "-0.049 (-0.121, +0.024)"
+  },
+  {
+   "Outcome": "CO2 incl. land use",
+   "Low": "-0.069 (-0.187, +0.048)",
+   "Middle": "-0.077 (-0.174, +0.020)",
+   "High": "-0.105*** (-0.176, -0.035)"
+  },
+  {
+   "Outcome": "Coal CO2",
+   "Low": "-0.077 (-0.251, +0.097)",
+   "Middle": "-0.123 (-0.503, +0.257)",
+   "High": "-0.324 (-0.865, +0.218)"
+  },
+  {
+   "Outcome": "Gas CO2",
+   "Low": "+0.055 (-0.216, +0.326)",
+   "Middle": "-0.087 (-0.205, +0.031)",
+   "High": "-0.191*** (-0.314, -0.068)"
+  },
+  {
+   "Outcome": "Oil CO2",
+   "Low": "+0.032 (-0.046, +0.109)",
+   "Middle": "-0.055* (-0.116, +0.006)",
+   "High": "+0.030 (-0.057, +0.116)"
+  },
+  {
+   "Outcome": "CO2 intensity of GDP",
+   "Low": "+0.011 (-0.050, +0.071)",
+   "Middle": "-0.009 (-0.055, +0.038)",
+   "High": "-0.139*** (-0.224, -0.053)"
+  },
+  {
+   "Outcome": "Observations (max)",
+   "Low": "806",
+   "Middle": "793",
+   "High": "793"
+  }
+ ],
+ "vdem": [
+  {
+   "Outcome": "Total GHG",
+   "Weak": "-0.046** (-0.090, -0.002)",
+   "Moderate": "-0.048* (-0.104, +0.008)",
+   "Strong": "-0.140** (-0.254, -0.026)"
+  },
+  {
+   "Outcome": "GHG excl. LULUCF",
+   "Weak": "-0.039 (-0.094, +0.015)",
+   "Moderate": "-0.002 (-0.043, +0.038)",
+   "Strong": "-0.049 (-0.114, +0.016)"
+  },
+  {
+   "Outcome": "CO2 incl. land use",
+   "Weak": "-0.101** (-0.183, -0.019)",
+   "Moderate": "-0.095 (-0.225, +0.036)",
+   "Strong": "-0.116** (-0.227, -0.005)"
+  },
+  {
+   "Outcome": "Coal CO2",
+   "Weak": "-0.129 (-0.634, +0.376)",
+   "Moderate": "-0.097 (-0.312, +0.119)",
+   "Strong": "-0.145 (-0.339, +0.048)"
+  },
+  {
+   "Outcome": "Gas CO2",
+   "Weak": "-0.135 (-0.341, +0.071)",
+   "Moderate": "-0.007 (-0.142, +0.128)",
+   "Strong": "-0.203*** (-0.322, -0.085)"
+  },
+  {
+   "Outcome": "Oil CO2",
+   "Weak": "-0.043 (-0.111, +0.026)",
+   "Moderate": "+0.010 (-0.065, +0.086)",
+   "Strong": "-0.020 (-0.080, +0.039)"
+  },
+  {
+   "Outcome": "CO2 intensity of GDP",
+   "Weak": "-0.042 (-0.100, +0.016)",
+   "Moderate": "+0.043 (-0.019, +0.105)",
+   "Strong": "-0.039 (-0.091, +0.013)"
+  },
+  {
+   "Outcome": "Observations (max)",
+   "Weak": "728",
+   "Moderate": "715",
+   "Strong": "715"
+  }
+ ],
+ "regional": [
+  {
+   "outcome": "CO2",
+   "continent": "Europe",
+   "treated_n": 32,
+   "cs_att": -0.110751683629726,
+   "cs_se": 0.028810578410887,
+   "cs_sig": "***",
+   "did_att": -0.1929280183370466,
+   "did_se": 0.0399988753522692,
+   "did_sig": "***"
+  },
+  {
+   "outcome": "CO2",
+   "continent": "Asia",
+   "treated_n": 25,
+   "cs_att": -0.0378139177875613,
+   "cs_se": 0.0340760008310063,
+   "cs_sig": "",
+   "did_att": 0.1675983989228954,
+   "did_se": 0.1365936975559314,
+   "did_sig": ""
+  },
+  {
+   "outcome": "CO2",
+   "continent": "Africa",
+   "treated_n": 35,
+   "cs_att": 0.0477779107300075,
+   "cs_se": 0.0684801956209521,
+   "cs_sig": "",
+   "did_att": 0.1338253781698478,
+   "did_se": 0.0544853347724112,
+   "did_sig": "**"
+  },
+  {
+   "outcome": "CO2",
+   "continent": "North America",
+   "treated_n": 18,
+   "cs_att": 0.0270708899178421,
+   "cs_se": 0.0645848694840437,
+   "cs_sig": "",
+   "did_att": 0.131894409215508,
+   "did_se": 0.0834193953092396,
+   "did_sig": ""
+  },
+  {
+   "outcome": "CO2",
+   "continent": "South America",
+   "treated_n": 6,
+   "cs_att": 0.0547011767821542,
+   "cs_se": 0.0308600541525369,
+   "cs_sig": "*",
+   "did_att": 0.0581919208154541,
+   "did_se": 0.1077141406940809,
+   "did_sig": ""
+  },
+  {
+   "outcome": "CO2",
+   "continent": "Oceania",
+   "treated_n": 15,
+   "cs_att": 0.0075608044121665,
+   "cs_se": 0.0567072525487486,
+   "cs_sig": "",
+   "did_att": -0.0077338673575731,
+   "did_se": 0.0652519021773414,
+   "did_sig": ""
+  },
+  {
+   "outcome": "GHG",
+   "continent": "Europe",
+   "treated_n": 32,
+   "cs_att": -0.0834187784656707,
+   "cs_se": 0.0368692116727215,
+   "cs_sig": "**",
+   "did_att": -0.2513689919220575,
+   "did_se": 0.1038409108834389,
+   "did_sig": "**"
+  },
+  {
+   "outcome": "GHG",
+   "continent": "Asia",
+   "treated_n": 25,
+   "cs_att": -0.0388271336784071,
+   "cs_se": 0.0238407738095231,
+   "cs_sig": "",
+   "did_att": -0.0232078609692279,
+   "did_se": 0.0656168728216772,
+   "did_sig": ""
+  },
+  {
+   "outcome": "GHG",
+   "continent": "Africa",
+   "treated_n": 35,
+   "cs_att": -0.0399089720799511,
+   "cs_se": 0.0295213727369166,
+   "cs_sig": "",
+   "did_att": -0.0194478221109955,
+   "did_se": 0.0485653418753765,
+   "did_sig": ""
+  },
+  {
+   "outcome": "GHG",
+   "continent": "North America",
+   "treated_n": 18,
+   "cs_att": 0.0137216175897294,
+   "cs_se": 0.0281863014037075,
+   "cs_sig": "",
+   "did_att": 0.0689835492326804,
+   "did_se": 0.0411588627357248,
+   "did_sig": "*"
+  },
+  {
+   "outcome": "GHG",
+   "continent": "South America",
+   "treated_n": 6,
+   "cs_att": -0.0711993431508781,
+   "cs_se": 0.0703381766137934,
+   "cs_sig": "",
+   "did_att": -0.0466975775908242,
+   "did_se": 0.1075008318806051,
+   "did_sig": ""
+  },
+  {
+   "outcome": "GHG",
+   "continent": "Oceania",
+   "treated_n": 14,
+   "cs_att": "",
+   "cs_se": "",
+   "cs_sig": "",
+   "did_att": "",
+   "did_se": "",
+   "did_sig": ""
+  }
+ ],
+ "energy": [
+  {
+   "outcome": "Renewables share of electricity",
+   "att": 1.9984166150420877,
+   "se": 0.8302447559787011,
+   "sig": "**",
+   "unit": "pp",
+   "effect": "+2.0 pp",
+   "n": 2392
+  },
+  {
+   "outcome": "Low-carbon share of electricity",
+   "att": 1.7363200554888265,
+   "se": 0.8866765199965452,
+   "sig": "*",
+   "unit": "pp",
+   "effect": "+1.7 pp",
+   "n": 2392
+  },
+  {
+   "outcome": "Solar share of electricity",
+   "att": 0.9816691926687968,
+   "se": 0.4596845595300894,
+   "sig": "**",
+   "unit": "pp",
+   "effect": "+1.0 pp",
+   "n": 2392
+  },
+  {
+   "outcome": "Wind share of electricity",
+   "att": 0.7331295092693377,
+   "se": 0.3576187896410652,
+   "sig": "**",
+   "unit": "pp",
+   "effect": "+0.7 pp",
+   "n": 2314
+  },
+  {
+   "outcome": "Fossil share of electricity",
+   "att": -1.7363273112688913,
+   "se": 0.8418474517709772,
+   "sig": "**",
+   "unit": "pp",
+   "effect": "-1.7 pp",
+   "n": 2392
+  },
+  {
+   "outcome": "Coal share of electricity",
+   "att": -0.4896351113634929,
+   "se": 0.5461942855234317,
+   "sig": "",
+   "unit": "pp",
+   "effect": "-0.5 pp",
+   "n": 2379
+  },
+  {
+   "outcome": "Energy intensity of GDP (ln)",
+   "att": -0.0241939756464251,
+   "se": 0.0293021860034193,
+   "sig": "",
+   "unit": "ln",
+   "effect": "-2.4%",
+   "n": 1177
+  },
+  {
+   "outcome": "Primary energy per capita (ln)",
+   "att": -0.0174677986447446,
+   "se": 0.0149088663666027,
+   "sig": "",
+   "unit": "ln",
+   "effect": "-1.7%",
+   "n": 2522
+  }
+ ],
+ "cov_meta": {
+  "covs_full": [
+   "Middle income (ref. low)",
+   "High income (ref. low)",
+   "Log population",
+   "Urbanization (%)",
+   "Trade openness (% GDP)",
+   "Industry (% GDP)",
+   "Energy intensity (ln)",
+   "Electoral democracy",
+   "Rule of law",
+   "Services (% GDP)",
+   "Manufacturing (% GDP)",
+   "GDP growth (%)",
+   "Renewable energy (% final)"
+  ],
+  "covs_cs": [
+   "Log population",
+   "Urbanization (%)",
+   "Trade openness (% GDP)",
+   "Industry (% GDP)",
+   "Energy intensity (ln)",
+   "Electoral democracy",
+   "Rule of law",
+   "Services (% GDP)",
+   "Renewable energy (% final)"
+  ],
+  "new": [
+   "Services (% GDP)",
+   "Manufacturing (% GDP)",
+   "GDP growth (%)",
+   "Renewable energy (% final)"
+  ]
+ },
+ "robustness": [
+  {
+   "spec": "Baseline (CS, never-treated)",
+   "effect_pct": -5.1,
+   "se": 0.016,
+   "sig": "***",
+   "cell": "-5.1%***"
+  },
+  {
+   "spec": "Not-yet-treated controls",
+   "effect_pct": -5.3,
+   "se": 0.0156,
+   "sig": "***",
+   "cell": "-5.3%***"
+  },
+  {
+   "spec": "Exclude COVID (panel ends 2019)",
+   "effect_pct": -3.0,
+   "se": 0.0119,
+   "sig": "**",
+   "cell": "-3.0%**"
+  },
+  {
+   "spec": "Placebo (fake 2015 timing, pre-2019)",
+   "effect_pct": -1.5,
+   "se": 0.0209,
+   "sig": "",
+   "cell": "-1.5%"
+  },
+  {
+   "spec": "Treatment = binding (law) year",
+   "effect_pct": -0.8,
+   "se": 0.0142,
+   "sig": "",
+   "cell": "-0.8%"
+  }
+ ],
+ "robust_ext": [
+  {
+   "spec": "Baseline (CS, never-treated)",
+   "att": -0.0521,
+   "se": 0.016,
+   "effect_pct": -5.1,
+   "sig": "***",
+   "cell": "-5.1%***",
+   "n_countries": 190,
+   "note": ""
+  },
+  {
+   "spec": "Anticipation: 1 year",
+   "att": -0.0465,
+   "se": 0.0284,
+   "effect_pct": -4.5,
+   "sig": "",
+   "cell": "-4.5%",
+   "n_countries": 190,
+   "note": ""
+  },
+  {
+   "spec": "Exclude COVID years (2020-2021)",
+   "att": -0.0603,
+   "se": 0.1258,
+   "effect_pct": -5.9,
+   "sig": "",
+   "cell": "-5.9%",
+   "n_countries": 190,
+   "note": "unbalanced CS"
+  },
+  {
+   "spec": "Exclude Europe",
+   "att": -0.0397,
+   "se": 0.0171,
+   "effect_pct": -3.9,
+   "sig": "**",
+   "cell": "-3.9%**",
+   "n_countries": 149,
+   "note": ""
+  },
+  {
+   "spec": "Drop later-reversed targets",
+   "att": -0.0512,
+   "se": 0.0221,
+   "effect_pct": -5.0,
+   "sig": "**",
+   "cell": "-5.0%**",
+   "n_countries": 138,
+   "note": ""
+  },
+  {
+   "spec": "Broad coding: any neutrality-type target",
+   "att": -0.0366,
+   "se": 0.017,
+   "effect_pct": -3.6,
+   "sig": "**",
+   "cell": "-3.6%**",
+   "n_countries": 190,
+   "note": ""
+  },
+  {
+   "spec": "Total GHG (not per capita)",
+   "att": -0.0499,
+   "se": 0.017,
+   "effect_pct": -4.9,
+   "sig": "***",
+   "cell": "-4.9%***",
+   "n_countries": 190,
+   "note": ""
+  },
+  {
+   "spec": "Consumption-based CO2 pc (leakage test)",
+   "att": -0.0843,
+   "se": 0.0472,
+   "effect_pct": -8.1,
+   "sig": "*",
+   "cell": "-8.1%*",
+   "n_countries": 118,
+   "note": ""
+  },
+  {
+   "spec": "Covariate-adjusted CS (DR, baseline-2012 X)",
+   "att": -0.0802,
+   "se": 0.0253,
+   "effect_pct": -7.7,
+   "sig": "***",
+   "cell": "-7.7%***",
+   "n_countries": 144,
+   "note": "complete case"
+  },
+  {
+   "spec": "Exclude COVID years (2020-2021), 2x2",
+   "att": -0.0842,
+   "se": 0.0322,
+   "effect_pct": -8.1,
+   "sig": "***",
+   "cell": "-8.1%***",
+   "n_countries": 165,
+   "note": "2x2 TWFE, 2019 cohort vs never-treated"
+  }
+ ],
+ "permutation": {
+  "observed_att": -0.05213346041741942,
+  "p_value": 0.0,
+  "n_draws": 200
+ },
+ "honestdid_rm": [
+  {
+   "lb": -0.0901121615496371,
+   "ub": -0.0185011437098567,
+   "method": "Original",
+   "Delta": "",
+   "Mbar": ""
+  },
+  {
+   "lb": -0.168603735628554,
+   "ub": 0.0581518307265512,
+   "method": "C-LF",
+   "Delta": "DeltaRM",
+   "Mbar": 0.5
+  },
+  {
+   "lb": -0.2702780057039077,
+   "ub": 0.1598261008019048,
+   "method": "C-LF",
+   "Delta": "DeltaRM",
+   "Mbar": 1.0
+  },
+  {
+   "lb": -0.3653690496592744,
+   "ub": 0.2622318404461459,
+   "method": "C-LF",
+   "Delta": "DeltaRM",
+   "Mbar": 1.5
+  },
+  {
+   "lb": -0.3653690496592744,
+   "ub": 0.3653690496592744,
+   "method": "C-LF",
+   "Delta": "DeltaRM",
+   "Mbar": 2.0
+  }
+ ],
+ "honestdid_sd": [
+  {
+   "lb": -0.0840486506634264,
+   "ub": 0.0211767406643616,
+   "method": "FLCI",
+   "Delta": "DeltaSD",
+   "M": 0.0
+  },
+  {
+   "lb": -0.1564225600148376,
+   "ub": 0.0932342531340556,
+   "method": "FLCI",
+   "Delta": "DeltaSD",
+   "M": 0.005
+  },
+  {
+   "lb": -0.2320436792881091,
+   "ub": 0.1550966758074552,
+   "method": "FLCI",
+   "Delta": "DeltaSD",
+   "M": 0.01
+  },
+  {
+   "lb": -0.3531690859317681,
+   "ub": 0.285268169430761,
+   "method": "FLCI",
+   "Delta": "DeltaSD",
+   "M": 0.02
+  },
+  {
+   "lb": -0.4678505120473062,
+   "ub": 0.3936912200087151,
+   "method": "FLCI",
+   "Delta": "DeltaSD",
+   "M": 0.03
+  }
+ ],
+ "airquality": [
+  {
+   "outcome": "PM2.5 exposure (ln, pop-weighted \u00b5g/m\u00b3)",
+   "att": 0.0118,
+   "se": 0.0111,
+   "effect": "+1.2%",
+   "ci": "(-1.0, +3.4)",
+   "sig": "",
+   "n_countries": 186,
+   "n_obs": 1674,
+   "window": "2012-2020"
+  },
+  {
+   "outcome": "PM2.5 damage (% of GNI)",
+   "att": -0.0089,
+   "se": 0.0089,
+   "effect": "-0.01 pp",
+   "ci": "(-0.03, +0.01)",
+   "sig": "",
+   "n_countries": 150,
+   "n_obs": 1500,
+   "window": "2012-2021"
+  },
+  {
+   "outcome": "Clean-cooking access (% population)",
+   "att": -0.1994,
+   "se": 0.378,
+   "effect": "-0.20 pp",
+   "ci": "(-0.94, +0.54)",
+   "sig": "",
+   "n_countries": 180,
+   "n_obs": 2160,
+   "window": "2012-2023"
+  }
+ ],
+ "airquality_meta": {
+  "corr_pm25_co2pc": -0.014,
+  "corr_pm25_ghgpc": 0.006,
+  "corr_n": 1620
+ },
+ "adoption_det": [
+  {
+   "variable": "Log GDP per capita (PPP, 2012)",
+   "coef": "-0.027",
+   "se": "(0.072)"
+  },
+  {
+   "variable": "Log GHG per capita (2012)",
+   "coef": "+0.196***",
+   "se": "(0.073)"
+  },
+  {
+   "variable": "Log population (2012)",
+   "coef": "+0.026",
+   "se": "(0.027)"
+  },
+  {
+   "variable": "Urbanisation (%, 2012)",
+   "coef": "-0.006**",
+   "se": "(0.003)"
+  },
+  {
+   "variable": "Trade openness (% GDP, 2012)",
+   "coef": "-0.001",
+   "se": "(0.001)"
+  },
+  {
+   "variable": "Industry (% GDP, 2012)",
+   "coef": "-0.009***",
+   "se": "(0.003)"
+  },
+  {
+   "variable": "Energy intensity (ln, 2012)",
+   "coef": "-0.076",
+   "se": "(0.094)"
+  },
+  {
+   "variable": "Electoral democracy (2012)",
+   "coef": "+0.146",
+   "se": "(0.317)"
+  },
+  {
+   "variable": "Rule of law (2012)",
+   "coef": "+0.336",
+   "se": "(0.273)"
+  },
+  {
+   "variable": "Observations (countries)",
+   "coef": "141",
+   "se": ""
+  },
+  {
+   "variable": "R\u00b2",
+   "coef": "0.217",
+   "se": ""
+  }
+ ],
+ "cohort_countries": {
+  "2019 (COP25 wave)": [
+   "Afghanistan",
+   "Angola",
+   "Antigua and Barbuda",
+   "Argentina",
+   "Austria",
+   "Bahamas",
+   "Bangladesh",
+   "Barbados",
+   "Belgium",
+   "Belize",
+   "Benin",
+   "Bulgaria",
+   "Burkina Faso",
+   "Burundi",
+   "Cambodia",
+   "Canada",
+   "Cape Verde",
+   "Central African Republic",
+   "Chad",
+   "Chile",
+   "Colombia",
+   "Cook Islands",
+   "Costa Rica",
+   "Croatia",
+   "Cyprus",
+   "Czechia",
+   "Democratic Republic of Congo",
+   "Denmark",
+   "Djibouti",
+   "Dominica",
+   "Dominican Republic",
+   "East Timor",
+   "Ecuador",
+   "Eritrea",
+   "Estonia",
+   "Ethiopia",
+   "Fiji",
+   "Finland",
+   "France",
+   "Gambia",
+   "Germany",
+   "Greece",
+   "Grenada",
+   "Guinea",
+   "Haiti",
+   "Hungary",
+   "Iceland",
+   "Ireland",
+   "Italy",
+   "Jamaica",
+   "Kiribati",
+   "Laos",
+   "Latvia",
+   "Lebanon",
+   "Lesotho",
+   "Liberia",
+   "Lithuania",
+   "Luxembourg",
+   "Malawi",
+   "Maldives",
+   "Mali",
+   "Malta",
+   "Mauritius",
+   "Mexico",
+   "Micronesia (country)",
+   "Monaco",
+   "Mozambique",
+   "Myanmar",
+   "Namibia",
+   "Nauru",
+   "Nepal",
+   "Netherlands",
+   "New Zealand",
+   "Nicaragua",
+   "Niger",
+   "Niue",
+   "Norway",
+   "Pakistan",
+   "Palau",
+   "Papua New Guinea",
+   "Peru",
+   "Portugal",
+   "Romania",
+   "Rwanda",
+   "Saint Kitts and Nevis",
+   "Saint Lucia",
+   "Saint Vincent and the Grenadines",
+   "Samoa",
+   "Senegal",
+   "Sierra Leone",
+   "Slovakia",
+   "Slovenia",
+   "Solomon Islands",
+   "Somalia",
+   "South Sudan",
+   "Spain",
+   "Sudan",
+   "Switzerland",
+   "Tanzania",
+   "Togo",
+   "Tonga",
+   "Trinidad and Tobago",
+   "Tuvalu",
+   "Uganda",
+   "Uruguay",
+   "Yemen",
+   "Zambia"
+  ],
+  "2020-2021": [
+   "Australia",
+   "Bahrain",
+   "Brunei",
+   "Egypt",
+   "India",
+   "Indonesia",
+   "Israel",
+   "Japan",
+   "Kazakhstan",
+   "Liechtenstein",
+   "Nigeria",
+   "Russia",
+   "Saudi Arabia",
+   "Singapore",
+   "South Africa",
+   "Thailand",
+   "Turkey",
+   "Ukraine",
+   "United Arab Emirates",
+   "United States",
+   "Vietnam"
+  ],
+  "2022 or later": [
+   "Ghana",
+   "Oman"
+  ],
+  "Pre-2019": [
+   "Marshall Islands",
+   "Sweden",
+   "United Kingdom"
+  ],
+  "Never adopted": [
+   "Albania",
+   "Algeria",
+   "Andorra",
+   "Anguilla",
+   "Antarctica",
+   "Armenia",
+   "Aruba",
+   "Azerbaijan",
+   "Belarus",
+   "Bermuda",
+   "Bolivia",
+   "Bonaire Sint Eustatius and Saba",
+   "Bosnia and Herzegovina",
+   "Botswana",
+   "Brazil",
+   "British Virgin Islands",
+   "Cameroon",
+   "China",
+   "Christmas Island",
+   "Congo",
+   "Cote d'Ivoire",
+   "Cuba",
+   "Curacao",
+   "El Salvador",
+   "Equatorial Guinea",
+   "Eswatini",
+   "Faroe Islands",
+   "French Polynesia",
+   "Gabon",
+   "Georgia",
+   "Greenland",
+   "Guatemala",
+   "Honduras",
+   "Hong Kong",
+   "Iran",
+   "Iraq",
+   "Jordan",
+   "Kenya",
+   "Kuwait",
+   "Kyrgyzstan",
+   "Libya",
+   "Macao",
+   "Malaysia",
+   "Mauritania",
+   "Moldova",
+   "Mongolia",
+   "Montenegro",
+   "Montserrat",
+   "Morocco",
+   "New Caledonia",
+   "North Korea",
+   "North Macedonia",
+   "Palestine",
+   "Panama",
+   "Paraguay",
+   "Philippines",
+   "Poland",
+   "Qatar",
+   "Saint Helena",
+   "Saint Pierre and Miquelon",
+   "San Marino",
+   "Serbia",
+   "Sint Maarten (Dutch part)",
+   "South Korea",
+   "Sri Lanka",
+   "Syria",
+   "Taiwan",
+   "Tajikistan",
+   "Tunisia",
+   "Turkmenistan",
+   "Turks and Caicos Islands",
+   "Uzbekistan",
+   "Vatican",
+   "Venezuela",
+   "Wallis and Futuna",
+   "Zimbabwe"
+  ]
+ },
+ "cohorts": {
+  "2015": 1,
+  "2017": 1,
+  "2018": 1,
+  "2019": 107,
+  "2020": 5,
+  "2021": 16,
+  "2022": 1,
+  "2023": 1
+ },
+ "n_treated": 133,
+ "n_never": 76
+}

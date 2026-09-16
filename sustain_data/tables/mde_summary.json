@@ -1,0 +1,26 @@
+{
+ "Oil CO\u2082": {
+  "effect_pct": -0.11,
+  "mde_pct": 5.8
+ },
+ "Methane (CH\u2084)": {
+  "effect_pct": 0.14,
+  "mde_pct": 4.8
+ },
+ "N\u2082O": {
+  "effect_pct": -0.53,
+  "mde_pct": 4.9
+ },
+ "PM2.5 exposure (ln, pop-weighted \u00b5g/m\u00b3)": {
+  "effect": "+1.2%",
+  "mde": "3.2%"
+ },
+ "PM2.5 damage (% of GNI)": {
+  "effect": "-0.01",
+  "mde": "0.02"
+ },
+ "Clean-cooking access (% population)": {
+  "effect": "-0.20",
+  "mde": "1.06"
+ }
+}
